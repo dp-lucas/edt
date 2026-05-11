@@ -36,14 +36,14 @@ Lower-body squat focus paired with vertical/horizontal pulling. Calves and core 
 
 | Block | Pair | Exercise | Reps | Duration / Sets |
 |---|---|---|---|---|
-| A — Main Density Block | A1 | Back Squat | Cap at 5 | 15 min PR Zone |
+| A — Main Density Block | A1 | Front Squat (slant board) | Cap at 5 | 15 min PR Zone |
 | | A2 | Pull Variation — alternate each A day:<br>Day 1: Pull-Ups (vertical)<br>Day 2: Ring Rows (horizontal) | Cap at 5 | (paired with A1) |
 | C — Calves | C1 | Standing Calf Raises | 8–12 | 2 sets |
 | D — Core | D1 | Hanging Leg Raises | 8–12 | 2 sets |
 
 **Exercise Notes — Day A**
 
-- **Back Squat:** Move at whatever speed allows maximum safe rep accumulation. Control the descent enough to stay balanced and protect the knees — no crashing into the hole. Drive up with intent.
+- **Front Squat (slant board):** Heels on a slant board for depth and ankle-friendly knee tracking. Keep the elbows high and the bar secure on the shoulders; use a cross-arm rack or straps if the rack position fatigues before your legs. Move at whatever speed allows maximum safe rep accumulation — control the descent, no crashing into the hole, drive up with intent.
 - **Pull-Ups:** Pull fast, lower under control. The 5-rep cap and no-failure rule handle form protection.
 - **Ring Rows:** Pull fast to the chest, lower under control. Maintain a rigid plank throughout.
 - **Standing Calf Raises:** Full range — complete stretch at the bottom, full contraction at the top.
@@ -87,7 +87,7 @@ ABA / BAB rotation across 4 weeks. The pull and push variations alternate so eve
 
 | Movement Pattern | Exercise | Sessions / Month |
 |---|---|---|
-| Squat (knee-dominant) | Back Squat | 6 |
+| Squat (knee-dominant) | Front Squat (slant board) | 6 |
 | Hinge (hip-dominant) | Romanian Deadlift | 6 |
 | Vertical Pull | Pull-Ups | 3 |
 | Horizontal Pull | Ring Rows | 3 |
@@ -101,7 +101,7 @@ ABA / BAB rotation across 4 weeks. The pull and push variations alternate so eve
 ## Progression & Tracking
 
 **How to track:**
-After every session, write down two numbers for the 15-minute PR Zone: total reps of A1 and total reps of A2. Example for Day A: "Squat 60 / Pull-Up 32". This is the only data point that matters for progression.
+After every session, write down two numbers for the 15-minute PR Zone: total reps of A1 and total reps of A2. Example for Day A: "Front squat 60 / Pull-Up 32". This is the only data point that matters for progression. If you ever switch A1 to a different squat variant, start a new baseline — rep totals and loads are not comparable across variations.
 
 **When to add load:**
 When you exceed your previous best total reps in a PR Zone by 20% or more, increase the load on that lift by approximately 5% the next session. If you exceed your baseline by 40% or more — most likely after a deload week or during the first few weeks of neural adaptation — increase by 10% instead. Reset your rep count and start building density again. This is the entire progression model — no percentages, no periodization charts.
